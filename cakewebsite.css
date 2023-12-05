@@ -1,0 +1,33 @@
+img.slide{
+    height: 100vh;
+
+}
+/* 
+.map{
+    margin-left: 300px;
+} */
+
+@media only screen and (max-width: 480px) {
+    .map{
+        margin-left: 5px;
+    }
+
+}
+@media only screen and (max-width: 768px) {
+    .map{
+        margin-left: 5px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+    
