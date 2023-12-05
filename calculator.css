@@ -1,0 +1,34 @@
+.calc{
+    height: 580px;
+    width: 400px;
+    background-color: black;
+    margin-left: 400px;
+    margin-top: 50px;
+
+}
+
+#screen{
+    margin-top: 30px;
+    height: 50px;
+    width: 350px;
+    margin-left: 21px;
+    
+    pointer-events: none;     
+    /* Cannot type on that textbox. To make it as output screen. */
+} 
+
+.btn{
+    width: 50px;
+    height: 50px;
+    margin-top: 40px;
+    margin-left: 37px;
+    background-color: grey;
+    border: orange;
+    color: white;
+    font-size: 20px;
+    border-radius: 50%;
+}
+.btn:hover{
+    background-color: gainsboro;
+}
+
